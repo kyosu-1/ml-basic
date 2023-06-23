@@ -1,8 +1,8 @@
 # ml-basic
-機械学習の基本的なアルゴリズムの実装
+機械学習の基本的なアルゴリズムの説明と実装
 
-- supervised-learning
-
+- supervised-learning（教師あり学習）
+- unsupervised-learning（教師なし学習）
 
 ## 参考
 
